@@ -12,3 +12,8 @@ const c=()=>{
     console.log("I fixed this func ");
     
 }
+
+
+const e=()=>{
+    alert("from feature-3")
+}
