@@ -12,3 +12,7 @@ const c=()=>{
     console.log("I fixed this func ");
     
 }
+const f =()=>{
+    console.log("from main");
+    
+}
