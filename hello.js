@@ -17,6 +17,10 @@ const c=()=>{
     console.log("from feature-2");
  }
 
+ const e=()=>{
+    alert("from feature-3")
+}
+
 const f =()=>{
     console.log("from main");
 }
