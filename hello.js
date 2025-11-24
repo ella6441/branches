@@ -15,5 +15,8 @@ const c=()=>{
 
  const d=()=>{
     console.log("from feature-2");
-    
  }
+
+const f =()=>{
+    console.log("from main");
+}
