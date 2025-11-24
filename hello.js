@@ -12,3 +12,8 @@ const c=()=>{
     console.log("I fixed this func ");
     
 }
+
+ const d=()=>{
+    console.log("from feature-2");
+    
+ }
