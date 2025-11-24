@@ -9,4 +9,6 @@ const b=()=>{
 
 const c=()=>{
     console.log("have a good day!!!")
+    console.log("I fixed this func ");
+    
 }
