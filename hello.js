@@ -12,3 +12,8 @@ const c=()=>{
     console.log("I fixed this func ");
     
 }
+const g=()=>{
+    console.log("have a good day!!!")
+    console.log("I fixed this func ");
+    
+}
